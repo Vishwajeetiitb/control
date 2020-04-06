@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <node name="read_laser" pkg="control" type="read_laser.py" output="screen"/>
+</launch>
